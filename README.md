@@ -1,10 +1,8 @@
-# LeetSode_Solutions
 <p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=soft&color=1e1e1e&text=LeetCode%20Engineering%20Log&fontSize=40&fontColor=f5f5f0&height=180&animation=fadeIn" alt="LeetCode Engineering Log Header" width="100%" />
-</p>
-
-<p align="center">
-  <strong>Daily algorithm practice, engineering patterns, and problem-solving documentation.</strong>
+  <samp>
+    <h1 align="center">⚡ LEETCODE ENGINEERING LOG</h1>
+  </samp>
+  <p align="center"><strong>Daily algorithm practice, engineering patterns, and problem-solving documentation.</strong></p>
 </p>
 
 <p align="center">
@@ -43,7 +41,7 @@ The primary objective is the strict deconstruction of complex constraints, the d
     </td>
     <td width="33%" valign="top" style="border: 1px solid #3c3836; padding: 16px;">
       <h4 style="color: #d4af37; margin-top: 0;">03. OPTIMIZATION</h4>
-      <p style="font-size: 13px; color: #a89984; margin-bottom: 0;">Analyze worst-case and average-case limits. Every architectural choice respects hardware boundaries through optimal Time and Space complexity ($O(N)$ profiles).</p>
+      <p style="font-size: 13px; color: #a89984; margin-bottom: 0;">Analyze worst-case and average-case limits. Every architectural choice respects hardware boundaries through optimal Time and Space complexity profiles.</p>
     </td>
   </tr>
   <tr>
