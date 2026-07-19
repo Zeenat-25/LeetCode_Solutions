@@ -114,3 +114,15 @@ Designed to scale granularly from initial initialization to thousands of entries
     ├── dynamic-programming/
     ├── graphs/
     └── trees/
+
+## Installation
+
+_TODO: document installation steps._
+
+## Usage
+
+_TODO: document usage examples._
+
+## License
+
+See the [LICENSE](LICENSE) file for details.
