@@ -21,7 +21,7 @@
 
 ## ── OVERVIEW ──
 
-This repository serves as an executable engineering log documenting an analytical approach to computer science fundamentals and algorithmic problem-solving. Rather than operating as a flat archive of competitive programming scripts, this space treats every data structure and algorithm challenge as a software design problem. 
+This repository serves as an executable engineering log documenting an analytical approach to computer science fundamentals and algorithmic problem-solving. Rather than operating as a flat archive of competitive programming scripts, this space treats every data structure and algorithm challenge as a software design problem.
 
 The primary objective is the strict deconstruction of complex constraints, the discovery of underlying mathematical patterns, and the implementation of highly optimized, production-grade solutions. Every entry prioritizes spatial and temporal efficiency while maintaining cognitive readability and architectural intent.
 
